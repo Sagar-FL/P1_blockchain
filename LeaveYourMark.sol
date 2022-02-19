@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: MIT
+
 pragma solidity ^0.6.0;
 // Can also provide solidity versiona as a range
 // Syntax : >=0.6.0 <0.9.0
