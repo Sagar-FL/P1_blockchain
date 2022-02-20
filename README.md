@@ -1,7 +1,11 @@
 # My first blockchain project
 
 ## V2.0
-Working on new version -
+In this version we added the following -
+* Added a `SimpleStorage` contract that can store list of `People` with their fav number.
+* Added a `SimpleStorageFactory` contract to make creation of `Simplestorage` contract avialabile to everyone.
+* With this factory one can create his own storage contract with a list of `People` to work with.
+* Also added functionality to `SimpleStorageFactory` to interact with the user created simple storage contract directly.
 
 ## V1.0
 This version of project does the following things -
